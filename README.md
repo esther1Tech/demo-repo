@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Demo
 
 Some description!
@@ -9,6 +9,8 @@ watch tutorial on YouTube
 =======
 # Demo 2
 
+=======
+some text
 
 ## Local Development
 
