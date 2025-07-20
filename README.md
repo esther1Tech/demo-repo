@@ -11,3 +11,6 @@ watch tutorial on YouTube
 
 some text
 >>>>>>> b56358a (created README.md)
+## Local Development 
+
+1. Open index.html in your browser
